@@ -1,4 +1,4 @@
-#**Age & Gender Detection using OpenCV**
+# **Age & Gender Detection using OpenCV**
 ##**Introduction**
 In computer vision for monitoring, predicting age and gender is frequently employed. This prediction is now much more realistic and open to the general public because of developments in computer vision. This research area has advanced significantly due to its usefulness in sophisticated practical applications.
 
